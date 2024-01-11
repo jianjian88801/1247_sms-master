@@ -32,7 +32,7 @@
 4. 启动springboot项目（后端）
 
 前端：
-    cd ./forum-java-main/forum-app目录
+    cd ./forum-java-main/forum-app目录  
     安装依赖: npm install  
     运行项目：npm run build
 
